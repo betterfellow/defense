@@ -3,9 +3,18 @@ Basic implementation of the Variational Auto Encoder by Kingma, 2014: [[The orig
 
 * for PyTorch warm-up
 
+## Model
+* Composed by 2 parts: Encoder & Decoder
+* Batch Normalization
+* PReLU
+* Dropout
+* With MNIST
+* Wrapped with Tensorboard
+
 ## In progress
 * Xavier/He initialization
 * Replace BCELoss() with BCEWithLogitsLoss()
+  * More numerically stable [[link]](http://pytorch.org/docs/master/nn.html#torch.nn.BCEWithLogitsLoss)
 
 ## Result for 10 & 15 epochs
 
