@@ -26,3 +26,5 @@
   * S.M. Moosavi-Dezfooli, [Universal adversarial perturbations](https://arxiv.org/abs/1610.08401), 2017
   * S.M. Moosavi-Dezfooli, [Analysis of universal adversarial perturbations](https://arxiv.org/abs/1705.09554), 2017
   * Y. Song, [PixelDefend: Leveraging Generative Models to Understand and Defend against Adversarial Examples](https://arxiv.org/abs/1710.10766), 2017
+* Others
+  * Y. LeCun, [Gradient-Based Learning Applied to Document Recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf), 1998
